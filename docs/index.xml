@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Claire Winder</title>
-    <link>https://clwinder.github.io/</link>
+    <link>https://clairewinder.co.uk/</link>
     <description>Recent content on Claire Winder</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://clwinder.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://clairewinder.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shetland Trip 2017</title>
-      <link>https://clwinder.github.io/post/shetland/</link>
+      <link>https://clairewinder.co.uk/post/shetland/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://clwinder.github.io/post/shetland/</guid>
+      <guid>https://clairewinder.co.uk/post/shetland/</guid>
       <description>I went to the Shetland Islands</description>
     </item>
     

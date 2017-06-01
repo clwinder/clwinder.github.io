@@ -1,6 +1,6 @@
 publishDir = "docs"
 canonifyURLs = true
-baseurl = "https://clwinder.github.io"
+baseurl = "https://clairewinder.co.uk"
 DefaultContentLanguage = "en"
 title = "Claire Winder"
 theme = "beautifulhugo"
