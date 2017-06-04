@@ -12,7 +12,7 @@ pygmentCodeFences = true
 [Params]
   subtitle = "Wildlife Photography"
   logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
+  favicon = "img/favicon_2.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
