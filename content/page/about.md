@@ -5,22 +5,23 @@ tags: []
 title: About
 ---
 
-I have always had a facination with the natural world. Growing up I was surrounded by nature, family holidays revolved around wildlife and we have always had lot's of pets. So, when my parents bought me my first camera in my early teens, I fell in love. 
+I have always had a facination with the natural world. Growing up I was surrounded by nature, family holidays revolved around wildlife and we have always had a lot of pets. So, when my parents bought me my first camera in my early teens, I fell in love. 
 
-## Gear
+### Gear
 
-### Camera
+#### Camera
 * Canon EOS 5D MkIV
 * Canon EOS 7D
 
-### Lens
+#### Lens
 * Canon 100-400mm L
 * Canon 17-40mm L
 
-### Other bits
+#### Other bits
 * Manfrotto tripod legs + ball head
 * Canon Speedlite 430EX II
 * Off-camera flash cord
 * Hähnel Giga T Pro II remote control
 * Various filters
 * Extension tubes
+
