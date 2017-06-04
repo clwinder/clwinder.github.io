@@ -9,15 +9,19 @@ I have always had a facination with the natural world. Growing up I was surround
 
 ### Gear
 
+
 #### Camera
+
 * Canon EOS 5D MkIV
 * Canon EOS 7D
 
 #### Lens
+
 * Canon 100-400mm L
 * Canon 17-40mm L
 
 #### Other bits
+
 * Manfrotto tripod legs + ball head
 * Canon Speedlite 430EX II
 * Off-camera flash cord
