@@ -38,9 +38,27 @@ pygmentCodeFences = true
 
 [[menu.main]]
   parent = "galleries"
+  name = "Birds"
+  url = "page/birds"
+  weight = 1
+
+  [[menu.main]]
+  parent = "galleries"
+  name = "Other Wildlife"
+  url = "page/other-wildlife"
+  weight = 2
+
+  [[menu.main]]
+  parent = "galleries"
+  name = "Landscapes"
+  url = "page/landscapes"
+  weight = 3
+
+  [[menu.main]]
+  parent = "galleries"
   name = "Iceland"
   url = "page/iceland"
-  weight = 1
+  weight = 4
 
 [[menu.main]]
   name = "About"

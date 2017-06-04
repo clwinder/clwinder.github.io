@@ -5,5 +5,5 @@ tags: []
 title: Iceland
 ---
 
-{{< gallery dir="/img/iceland/" />}} ß
+{{< gallery dir="/img/iceland/" />}}
 {{< load-photoswipe >}}
