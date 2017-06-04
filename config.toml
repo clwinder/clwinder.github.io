@@ -39,7 +39,7 @@ pygmentCodeFences = true
 [[menu.main]]
   parent = "galleries"
   name = "Iceland"
-  url = "galleries/iceland"
+  url = "page/iceland"
   weight = 1
 
 [[menu.main]]
