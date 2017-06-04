@@ -7,5 +7,5 @@ title: Iceland
 
 {{< gallery dir="/img/iceland/" />}} 
 {{< gallery caption-position="none" >}} 
-{{< figure caption-position="none" >}}
+{{< figure src="/img/iceland/" caption-position="none" >}}
 {{< load-photoswipe >}}
