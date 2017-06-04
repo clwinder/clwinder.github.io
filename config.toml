@@ -32,9 +32,15 @@ pygmentCodeFences = true
   weight = 1
 
 [[menu.main]]
+  identifier = "galleries"
   name = "Galleries"
-  url = "page/galleries/"
   weight = 2
+
+[[menu.main]]
+  parent = "galleries"
+  name = "Iceland"
+  url = "galleries/iceland"
+  weight = 1
 
 [[menu.main]]
   name = "About"
