@@ -15,8 +15,8 @@ pygmentCodeFences = true
   favicon = "img/favicon_2.ico"
   dateFormat = "January 2, 2006"
   commit = false
-  rss = true
-  comments = true
+  rss = false
+  comments = false
 
 [Author]
   name = "Claire Winder"
