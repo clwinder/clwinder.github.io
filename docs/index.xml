@@ -5,10 +5,37 @@
     <link>https://clairewinder.co.uk/</link>
     <description>Recent content on Claire Winder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Jun 2017 19:45:51 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2017 19:45:51 +0100</lastBuildDate>
     
 	<atom:link href="https://clairewinder.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shetland</title>
+      <link>https://clairewinder.co.uk/page/shetland/</link>
+      <pubDate>Sat, 01 Jul 2017 19:45:51 +0100</pubDate>
+      
+      <guid>https://clairewinder.co.uk/page/shetland/</guid>
+      <description>Shetland 01
+      Shetland 02
+      Shetland 03
+      Shetland 04
+      Shetland 05
+      Shetland 06
+      Shetland 07
+      Shetland 08
+      Shetland 09
+      Shetland 10</description>
+    </item>
+    
+    <item>
+      <title>Shetland Trip 2017</title>
+      <link>https://clairewinder.co.uk/post/shetland/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://clairewinder.co.uk/post/shetland/</guid>
+      <description>I’ve finally managed to get round to writing this blog post about my recent trip to Shetland! I have long wanted to go, but until now have never got round to it, there are just so many amazing places around the world to visit. We chose the end of May for the trip, as the breading season for the millions of sea birds that call Shetland home will be well under way.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -89,15 +116,6 @@ Gear Camera  Canon EOS 5D MkIV Canon EOS 7D  Lens  Canon 100-400mm L Canon 17-40
       Other wildlife 07
       Other wildlife 08
       Other wildlife 09</description>
-    </item>
-    
-    <item>
-      <title>Shetland Trip 2017</title>
-      <link>https://clairewinder.co.uk/post/shetland/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://clairewinder.co.uk/post/shetland/</guid>
-      <description>I went to the Shetland Islands</description>
     </item>
     
   </channel>
