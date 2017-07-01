@@ -5,11 +5,13 @@ tags: ["birds","Scotland","wildlife"]
 title: Shetland Trip 2017
 ---
 
-![Fulmar](/static/img/shetland/shetland-01.jpg)
-
 I’ve finally managed to get round to writing this blog post about my recent trip to Shetland! I have long wanted to go, but until now have never got round to it, there are just so many amazing places around the world to visit. We chose the end of May for the trip, as the breading season for the millions of sea birds that call Shetland home will be well under way.
 
 This trip was also the first proper test of my 5D mk IV, and boy did it not disappoint! It’s a huge step up from my 7D, the images are super sharp, even in low light, and the autofocus was amazing (although it took a little while to get used to - there are so many different settings). I was able to get a much higher hit rate when taking photos of flying birds, such as this fulmar hanging in the updraft at the top of a cliff:
+
+![Fulmar](/static/img/shetland/shetland-01.jpg)
+
+Fulmars are such pretty birds when you get a good look at them, with their slate-grey backs and black eye-shadow effect around their eyes. They’re so graceful in the air too.
 
 The sea bird colonies on Shetland are spectacular. The most accessible of them was Sumburgh Head, at the southern tip of the mainland. We spent quite a bit of time here, watching the birds and looking out to sea in the hope of spotting some sea mammals. As well as fulmar, there were guillemot, razor bills, and puffins all breading here. There had been the odd sighting of orca around Shetland in the weeks leading up to our trip, and we were lucky enough to see a pod of about a dozen on one of our visits to Sumburgh Head. A bluethroat was also sighted here, however, we failed to find it.
 
