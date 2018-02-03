@@ -5,5 +5,5 @@ tags: []
 title: Other Wildlife
 ---
 
-{{< gallery dir="/img/other-wildlife/" />}}
+{{< gallery dir="/img/other-wildlife/" caption-position="none" />}}
 {{< load-photoswipe >}}
