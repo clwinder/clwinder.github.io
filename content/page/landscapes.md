@@ -5,5 +5,5 @@ tags: []
 title: Landscapes
 ---
 
-{{< gallery dir="/img/landscapes/" />}}
+{{< gallery dir="/img/landscapes/" caption-position="none" />}}
 {{< load-photoswipe >}}
