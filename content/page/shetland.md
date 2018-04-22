@@ -5,5 +5,5 @@ tags: []
 title: Shetland
 ---
 
-{{< gallery dir="/img/shetland/" />}}
+{{< gallery dir="/img/shetland/" caption-position="none" />}}
 {{< load-photoswipe >}}

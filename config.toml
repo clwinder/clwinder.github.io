@@ -66,6 +66,12 @@ pygmentCodeFences = true
   url = "page/shetland"
   weight = 5
 
+  [[menu.main]]
+  parent = "galleries"
+  name = "Costa Rica"
+  url = "page/costa-rica"
+  weight = 6
+
 [[menu.main]]
   name = "About"
   url = "page/about/"

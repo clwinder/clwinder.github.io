@@ -5,5 +5,5 @@ tags: []
 title: Birds
 ---
 
-{{< gallery dir="/img/birds/" />}}
+{{< gallery dir="/img/birds/" caption-position="none" />}}
 {{< load-photoswipe >}}
