@@ -3,6 +3,14 @@ date: 2017-07-01
 subtitle: Wildlife photography around the Shetland Islands
 tags: ["birds","Scotland","wildlife"]
 title: Shetland Trip 2017
+keywords:
+- Claire Winder
+- wildlife photography
+- wildlife
+- birds
+- Shetland
+- photography
+- photographer
 ---
 
 I’ve finally managed to get round to writing this blog post about my recent trip to Shetland! I have long wanted to go, but until now have never got round to it, there are just so many amazing places around the world to visit. We chose the end of May for the trip, as the breading season for the millions of sea birds that call Shetland home will be well under way.

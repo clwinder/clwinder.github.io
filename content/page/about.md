@@ -3,6 +3,12 @@ date: 2017-06-01T19:45:51+01:00
 subtitle: ""
 tags: []
 title: About
+keywords:
+- Claire Winder
+- wildlife photography
+- camera
+- photography
+- photographer
 ---
 
 I have always had a facination with the natural world. Growing up I was surrounded by nature, family holidays revolved around wildlife and we have always had a lot of pets. So, when my parents bought me my first camera in my early teens, I fell in love. 
@@ -10,15 +16,16 @@ I have always had a facination with the natural world. Growing up I was surround
 ### Gear
 
 
-#### Camera
+#### Cameras
 
 * Canon EOS 5D MkIV
 * Canon EOS 7D
 
-#### Lens
+#### Lenses
 
 * Canon 100-400mm L
 * Canon 17-40mm L
+* Canon 24-70mm f2.8L II
 
 #### Other bits
 
