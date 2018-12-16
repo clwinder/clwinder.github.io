@@ -7,7 +7,7 @@ theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-#googleAnalytics = "UA-96154465-1"
+googleAnalytics = "UA-38224485-1"
 
 [Params]
   subtitle = "Wildlife Photography"
