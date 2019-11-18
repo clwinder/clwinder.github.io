@@ -74,6 +74,12 @@ googleAnalytics = "UA-38224485-1"
   url = "page/costa-rica"
   weight = 6
 
+   [[menu.main]]
+  parent = "galleries"
+  name = "Canada"
+  url = "page/canada"
+  weight = 7
+
 [[menu.main]]
   name = "About"
   url = "page/about/"
