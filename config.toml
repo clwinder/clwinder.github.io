@@ -11,6 +11,7 @@ googleAnalytics = "UA-38224485-1"
 
 [Params]
   subtitle = "Wildlife Photography"
+  mainSections = ["post","posts"]
   logo = "img/avatar-icon_2.jpg"
   favicon = "img/favicon_2.ico"
   dateFormat = "January 2, 2006"
@@ -19,6 +20,7 @@ googleAnalytics = "UA-38224485-1"
   comments = false
   enableRobotsTXT = true
   canonifyURLs = true
+  hideAuthor = true
 
 [Author]
   name = "Claire Winder"

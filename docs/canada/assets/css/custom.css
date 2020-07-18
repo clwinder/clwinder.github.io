@@ -1,0 +1,43 @@
+html {
+  background-color: #FFFFFF !important;
+  color: inherit;
+}
+
+.thumb-img {
+}
+
+#loupeContainer div.background {
+  background-color: #FFFFFF !important;
+  color: inherit;
+}
+
+header div.background {
+  background-color: #FFFFFF !important;
+  color: inherit;
+}
+
+.custom-colorable {
+  fill: #545454 !important;
+}
+
+body {
+  background-color: #FFFFFF !important;
+  color: #545454 !important;
+}
+
+header p.title {
+  font-size: 36px;
+}
+
+header p.author {
+  font-size: 24px;
+}
+
+a:link {
+  color: #545454;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #787878;
+}

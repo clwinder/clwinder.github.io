@@ -1,6 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://clairewinder.co.uk/tags/astrophotography/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clairewinder.co.uk/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clairewinder.co.uk/post/neowise/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clairewinder.co.uk/tags/landscape/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clairewinder.co.uk/post/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clairewinder.co.uk/tags/</loc>
+    <lastmod>2020-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clairewinder.co.uk/page/costa-rica/</loc>
+    <lastmod>2018-04-22T18:29:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clairewinder.co.uk/page/</loc>
+    <lastmod>2018-04-22T18:29:51+01:00</lastmod>
+  </url>
   
   <url>
     <loc>https://clairewinder.co.uk/page/shetland/</loc>
@@ -8,7 +48,22 @@
   </url>
   
   <url>
+    <loc>https://clairewinder.co.uk/tags/birds/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clairewinder.co.uk/tags/scotland/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://clairewinder.co.uk/post/shetland/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://clairewinder.co.uk/tags/wildlife/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,50 +93,12 @@
   </url>
   
   <url>
-    <loc>https://clairewinder.co.uk/tags/birds/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+    <loc>https://clairewinder.co.uk/google6b114e9ee306442a/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://clairewinder.co.uk/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://clairewinder.co.uk/</loc>
-    <lastmod>2017-07-01T19:45:51+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://clairewinder.co.uk/page/</loc>
-    <lastmod>2017-07-01T19:45:51+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://clairewinder.co.uk/post/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://clairewinder.co.uk/tags/scotland/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://clairewinder.co.uk/tags/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://clairewinder.co.uk/tags/wildlife/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,14 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Claire Winder</title>
     <link>https://clairewinder.co.uk/post/</link>
     <description>Recent content in Posts on Claire Winder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://clairewinder.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comet NEOWISE 2020</title>
+      <link>https://clairewinder.co.uk/post/neowise/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://clairewinder.co.uk/post/neowise/</guid>
+      <description>It’s been far too long since I’ve last written a blog post about my photography, life has a habit of getting in the way sometimes! But I managed to get a clear night, so decided to head out into the darkness to try and photograph NEOWISE. In this post I’ll discuss my set up, how I shot the images, and processed them afterwards.
+I’ve dabbled in a bit of astrophotography, mainly just landscapes with the Milky Way if I’ve been away in dark sky areas.</description>
+    </item>
     
     <item>
       <title>Shetland Trip 2017</title>

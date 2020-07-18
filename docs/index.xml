@@ -1,14 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Claire Winder</title>
     <link>https://clairewinder.co.uk/</link>
     <description>Recent content on Claire Winder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jul 2017 19:45:51 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://clairewinder.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comet NEOWISE 2020</title>
+      <link>https://clairewinder.co.uk/post/neowise/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://clairewinder.co.uk/post/neowise/</guid>
+      <description>It’s been far too long since I’ve last written a blog post about my photography, life has a habit of getting in the way sometimes! But I managed to get a clear night, so decided to head out into the darkness to try and photograph NEOWISE. In this post I’ll discuss my set up, how I shot the images, and processed them afterwards.
+I’ve dabbled in a bit of astrophotography, mainly just landscapes with the Milky Way if I’ve been away in dark sky areas.</description>
+    </item>
+    
+    <item>
+      <title>Costa Rica</title>
+      <link>https://clairewinder.co.uk/page/costa-rica/</link>
+      <pubDate>Sun, 22 Apr 2018 18:29:51 +0100</pubDate>
+      
+      <guid>https://clairewinder.co.uk/page/costa-rica/</guid>
+      <description>01 resplendent quetzal
+      02 basilisk lizard
+      03 tamandua
+      04 rufescent tiger heron
+      05 green crowned brilliant
+      06 dragonfly
+      07 white faced capuchin
+      08 chestnut sided warbler</description>
+    </item>
     
     <item>
       <title>Shetland</title>
@@ -44,7 +70,7 @@
       
       <guid>https://clairewinder.co.uk/page/about/</guid>
       <description>I have always had a facination with the natural world. Growing up I was surrounded by nature, family holidays revolved around wildlife and we have always had a lot of pets. So, when my parents bought me my first camera in my early teens, I fell in love.
-Gear Camera  Canon EOS 5D MkIV Canon EOS 7D  Lens  Canon 100-400mm L Canon 17-40mm L  Other bits  Manfrotto tripod legs + ball head Canon Speedlite 430EX II Off-camera flash cord Hähnel Giga T Pro II remote control Various filters Extension tubes  Bag Finding a decent bag to carry all my equipment in while out and about was quite a challenge.</description>
+Gear Cameras  Canon EOS 5D MkIV Canon EOS 7D  Lenses  Canon 100-400mm L Canon 17-40mm L Canon 24-70mm f2.8L II  Other bits  Manfrotto tripod legs + ball head Canon Speedlite 430EX II Off-camera flash cord Hähnel Giga T Pro II remote control Various filters Extension tubes  Bag Finding a decent bag to carry all my equipment in while out and about was quite a challenge.</description>
     </item>
     
     <item>
@@ -116,6 +142,15 @@ Gear Camera  Canon EOS 5D MkIV Canon EOS 7D  Lens  Canon 100-400mm L Canon 17-40
       Other wildlife 07
       Other wildlife 08
       Other wildlife 09</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://clairewinder.co.uk/google6b114e9ee306442a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://clairewinder.co.uk/google6b114e9ee306442a/</guid>
+      <description>google-site-verification: google6b114e9ee306442a.</description>
     </item>
     
   </channel>

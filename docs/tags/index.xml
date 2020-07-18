@@ -1,17 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Claire Winder</title>
     <link>https://clairewinder.co.uk/tags/</link>
     <description>Recent content in Tags on Claire Winder</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://clairewinder.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Birds</title>
+      <title>astrophotography</title>
+      <link>https://clairewinder.co.uk/tags/astrophotography/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://clairewinder.co.uk/tags/astrophotography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>landscape</title>
+      <link>https://clairewinder.co.uk/tags/landscape/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://clairewinder.co.uk/tags/landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>birds</title>
       <link>https://clairewinder.co.uk/tags/birds/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
@@ -29,7 +47,7 @@
     </item>
     
     <item>
-      <title>Wildlife</title>
+      <title>wildlife</title>
       <link>https://clairewinder.co.uk/tags/wildlife/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
